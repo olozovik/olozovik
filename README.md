@@ -1,6 +1,6 @@
 ## Hello everyone ✋
 
-### I am Oleh. I am a beginner Full Stack developer. I like programming and I strive to grow in this area.
+### I am Oleh. I am a beginner Full Stack developer. I like programming and strive to grow in this area.
 
 ## My stack:
 
