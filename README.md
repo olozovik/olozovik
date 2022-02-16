@@ -2,8 +2,6 @@
 
 ### I am Oleh. I am a beginner Full Stack developer. I like programming and I strive to grow in this area.
 
-&nbsp;
-
 ## My stack:
 
 ![Javascript](./icons/js.png "JavaScript")&nbsp;&nbsp;&nbsp;
